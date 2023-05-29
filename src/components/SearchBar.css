@@ -1,0 +1,15 @@
+.search-input {
+  border: 5px solid peachpuff;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.search-input form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-size: 2rem;
+  font-weight: bold;
+}
